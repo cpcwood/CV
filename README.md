@@ -1,16 +1,77 @@
-# Christopher Wood
+<h2 align="center"> Christopher Wood </h2>
 
-I am a motivated and fast learning graduate, passionate about all things technology. I throughly enjoyed studying Mechanical Engineering at university, but I found the programming I undertook in modules/projects was what really intrested and inspired me. So I've decided to make a switch and turn my hobby into my job and pursue a career in software development.
+<p align="center"> <a href='#skills'>Skills</a> | <a href='#projects'>Projects</a> | <a href='#education'>Education</a> | <a href='#experience'>Experience</a> | <a href='#interests'>Interests</a> | <a href='https://www.linkedin.com/in/chriswood1995/'>LinkedIn</a> | <a href='https://www.codewars.com/users/cpcwood'>Codewars</a> </p>
+
+<p style='text-align: justify;'> I am a motivated and fast learning graduate, passionate about all things technology. I throughly enjoyed studying Mechanical Engineering at university, but I found the programming I undertook in modules/projects was what really intrested and inspired me. So I've decided to make a switch and turn my hobby into my job and pursue a career in software development. </p>
+
+I am hardworking and willing to learn anything new.
+
+While job seeking I will be 
+nailing down node JS and polishing my HTML/CSS by creating a website for my upcoming wedding (link)
+fundamentals of OOD in javascript (link)
+fundamentals of pythong via machine learning (link)
+Pi based VPN and home webserver (say hello @ website link)
+
+## Skills
+
+#### Problem Solver
+
+I love to solve problems, both for fun and in work. The more complex, the better. If I dont have to start drawing things out to keep track the problem, it wasn't hard enough.
+
+Having solved problems before, what makers taught me is the process in which to follow when stuck or something goes wrong
+
+codewars - check it out
+
+Degree final project
+
+GRAHAM SOAS
+
+#### Team Player
+
+Agile ftw, previous work places had real communication problems. I find being in a fast paced team motivates me to work hard and love to lead when given the opppertunity. 
+
+GRAHAM
+
+Head boy
+
+John Lewis
+
+Lejog
+
+Makers
+
+#### Self-driven
+
+I am self driven by both goals and curisosity, if there is something to achive or complete it makes working better
+
+Machine learning project
+
+University
+
+Bathroom
+
+Logcabin
+
+#### Analytical Thinker
+
+Theres no point solving problems if you solve the wrong problems, Im a big fan of thinking first and working out the edge cases before implementing the solution
+
+Uni
+
+#### Thrives under pressure
+
+More pressure = more work 
 
 
-#### Add Some Skills
+## Projects
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+| Project | Overview | Tech | Testing |
+|---|---|---|---|
+| Dinorun | Final project at Makers creating a side scrolling game with procedurally generated levels based on uploaded sound files | JavaScript, Ruby on Rails, PSQL | Jasmine, RSpec |
+| Acebook | A Starwars themed Facebook clone with chat functionality | JavaScript, Ruby on Rails, PSQL | Jasmine, RSpec |
+| Makersbnb | Airbnb clone | JavaScript, Ruby Sinatra, PSQL | Jasmine, RSpec |
+| Bowling Challenge | Makers weekend challenge to create pure JavaScript front end bowling scorecard | JavaScript | Jasmine |
+| Rock Paper Scissors | Sinatra based play Rock Paper Scissors game | Ruby Sinatra | RSpec | 
 
 ## Education
 
@@ -20,6 +81,16 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - OOP, TDD
 - Ruby
 - RSpec
+
+Technical Skills
+
+Whilst at Makers, I gained the necessary skill-set for full stack web development. I am familiar with Ruby, JavaScript, HTML and CSS, and have worked with frameworks such as Rails, Sinatra, NodeJS.
+
+Loved POODR book
+
+I follow Test-Driven Development, with the occasional spike, and am familiar with RSpec, Capybara, and Jasmine.
+
+I make use of test databases and mocked objects to ensure robust unit testing.
 
 #### The University of Nottingham (September 2014 - July 2018)
 
@@ -76,7 +147,7 @@ A Levels:
 
 
 
-## Hobbies
+## Interests
 
 **Cycling**
 - I am a keen cyclist, having hand built various high specification bikes. I enjoy taking part in various sportives and I have planned and cycled several multiday journeys, including Land's End to John O'Groats unsupported, leading a team of 4 and raising over £10,000 for Marie Curie Cancer Care.
@@ -89,9 +160,3 @@ A Levels:
 
 **Other interests**
 - I am an enthusiastic skier, having passed the CSIA ski instructor exam. I also enjoy playing the piano and golf recreationally
-
-
-
-## Links
-
-[LinkedIn](https://www.linkedin.com/in/chriswood1995/ "Link to LinkedIn")
