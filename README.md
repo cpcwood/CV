@@ -1,6 +1,6 @@
 <h1 align="center"> Christopher Wood </h1>
 
-<h4> <p align="center"> <a href='#skills'>Skills</a> | <a href='#projects'>Projects</a> | <a href='#education'>Education</a> | <a href='#experience'>Experience</a> | <a href='#achivements
+<h4> <a href='#projects'>Projects</a> | <p align="center"> <a href='#skills'>Skills</a> | <a href='#education'>Education</a> | <a href='#experience'>Experience</a> | <a href='#achivements
 '>Achivements</a> | <a href='#interests'>Interests</a> | <a href='https://www.linkedin.com/in/chriswood1995/' target="_blank">LinkedIn</a> | <a href='https://www.codewars.com/users/cpcwood' target="_blank">Codewars <img src='https://img.shields.io/badge/dynamic/json?color=blue&label=Honor&query=%24.honor&url=https%3A%2F%2Fwww.codewars.com%2Fapi%2Fv1%2Fusers%2Fcpcwood'></img></a></p> </h4>
 
 <p align='justify'>
@@ -20,6 +20,16 @@ While job seeking I will be working on the following:
   <li>Pi based VPN and home webserver (<a href='https://www.cpcwood.com/say-hello' target="_blank">Say Hello</a>)</li>
 </ul>
 </p>
+
+## Projects
+
+| Project | Overview | Tech |
+|---|---|---|
+| [Dinorun](https://github.com/cpcwood/technodactyl-studios-dinorun) | Final project at Makers creating a side scrolling 2D game with procedurally generated levels based on uploaded sound files | JavaScript, Ruby on Rails, PSQL, AWS S3 |
+| [Acebook](https://github.com/cpcwood/acebook-dosdosdesperadosdynamicos) | A Starwars themed Facebook clone with chat functionality | JavaScript, Ruby on Rails, PSQL |
+| [Makersbnb](https://github.com/cpcwood/Makersbnb--Lucky-Apocalypse) | Airbnb clone with booking system | JavaScript, Ruby Sinatra, PSQL |
+| [Bowling Challenge](https://github.com/cpcwood/bowling-challenge) | Makers weekend challenge to create pure JavaScript frontend bowling scorecard | JavaScript |
+| [Rock Paper Scissors](https://github.com/cpcwood/rps-challenge) | Sinatra based play Rock Paper Scissors game | Ruby Sinatra |
 
 ## Skills
 
@@ -71,16 +81,6 @@ I am self driven by both goals and curisosity, finding that if there is somethin
 <p align='justify'> 
 In my spare time, I enjoy learning about technology and other skills. Checkout my <a href='#interests'>Interests</a> at the bottom of the page to see some examples.
 </p>
-
-## Projects
-
-| Project | Overview | Tech |
-|---|---|---|
-| Dinorun | Final project at Makers creating a side scrolling game with procedurally generated levels based on uploaded sound files | JavaScript, Ruby on Rails, PSQL, AWS S3 |
-| Acebook | A Starwars themed Facebook clone with chat functionality | JavaScript, Ruby on Rails, PSQL |
-| Makersbnb | Airbnb clone | JavaScript, Ruby Sinatra, PSQL |
-| Bowling Challenge | Makers weekend challenge to create pure JavaScript front end bowling scorecard | JavaScript |
-| Rock Paper Scissors | Sinatra based play Rock Paper Scissors game | Ruby Sinatra |
 
 ## Education
 
