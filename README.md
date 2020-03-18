@@ -1,6 +1,6 @@
 <h2 align="center"> Christopher Wood </h2>
 
-<p align="center"> <a href='#skills'>Skills</a> | <a href='#projects'>Projects</a> | <a href='#education'>Education</a> | <a href='#experience'>Experience</a> | <a href='#interests'>Interests</a> | <a href='https://www.linkedin.com/in/chriswood1995/' target="_blank">LinkedIn</a> | <a href='https://www.codewars.com/users/cpcwood' target="_blank">Codewars <img src='https://img.shields.io/badge/dynamic/json?color=blue&label=Honor&query=%24.honor&url=https%3A%2F%2Fwww.codewars.com%2Fapi%2Fv1%2Fusers%2Fcpcwood'></a> </p>
+<p align="center"><font size="4"> <a href='#skills'>Skills</a> | <a href='#projects'>Projects</a> | <a href='#education'>Education</a> | <a href='#experience'>Experience</a> | <a href='#interests'>Interests</a> | <a href='https://www.linkedin.com/in/chriswood1995/' target="_blank">LinkedIn</a> | <a href='https://www.codewars.com/users/cpcwood' target="_blank">Codewars <img src='https://img.shields.io/badge/dynamic/json?color=blue&label=Honor&query=%24.honor&url=https%3A%2F%2Fwww.codewars.com%2Fapi%2Fv1%2Fusers%2Fcpcwood'></a> </font></p>
 
 <p style='text-align: justify;'> I am a motivated and fast learning graduate, passionate about all things technology. I throughly enjoyed studying Mechanical Engineering at university, but I found that the programming I undertook in modules/projects was what really intrested and inspired me. So I've decided to make a switch and turn my hobby into my job and pursue a career in software development. 
 </p>
