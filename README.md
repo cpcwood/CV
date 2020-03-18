@@ -1,7 +1,7 @@
 <h1 align="center"> Christopher Wood </h1>
 
-<h4> <p align="center"> <a href='#skills'>Skills</a> | <a href='#projects'>Projects</a> | <a href='#education'>Education</a> | <a href='#experience'>Experience</a> | <a href='#interests'>Interests</a> | <a href='#achivements
-'>Achivements</a> | <a href='https://www.linkedin.com/in/chriswood1995/' target="_blank">LinkedIn</a> | <a href='https://www.codewars.com/users/cpcwood' target="_blank">Codewars <img src='https://img.shields.io/badge/dynamic/json?color=blue&label=Honor&query=%24.honor&url=https%3A%2F%2Fwww.codewars.com%2Fapi%2Fv1%2Fusers%2Fcpcwood'></a></p> </h4>
+<h4> <p align="center"> <a href='#skills'>Skills</a> | <a href='#projects'>Projects</a> | <a href='#education'>Education</a> | <a href='#experience'>Experience</a> | <a href='#achivements
+'>Achivements</a> | <a href='#interests'>Interests</a> | <a href='https://www.linkedin.com/in/chriswood1995/' target="_blank">LinkedIn</a> | <a href='https://www.codewars.com/users/cpcwood' target="_blank">Codewars <img src='https://img.shields.io/badge/dynamic/json?color=blue&label=Honor&query=%24.honor&url=https%3A%2F%2Fwww.codewars.com%2Fapi%2Fv1%2Fusers%2Fcpcwood'></a></p> </h4>
 
 <p align='justify'>
 I am a motivated and fast learning graduate, passionate about all things technology. I throughly enjoyed studying Mechanical Engineering at university, but I found that the programming I undertook in modules/projects was what really intrested and inspired me. So I've decided to make a switch and turn my hobby into my job and pursue a career in software development. 
@@ -13,10 +13,12 @@ I am hardworking and keen to learn anything, looking for a fast paced working en
 
 <p align='justify'>
 While job seeking I will be working on the following:
-* Cleaning up and refactoring projects created during Makers
-* Nailing down my understanding of NodeJS and React by creating a website for my upcoming wedding ([repo](https://github.com/cpcwood/alice-and-chris-2021))
-* Continuing to learn the fundamentals of Python via improving my machine learning project ([repo](https://github.com/cpcwood/neural-nets))
-* Pi based VPN and home webserver (<a href='https://www.cpcwood.com/say-hello' target="_blank">Say Hello</a>)
+<ul>
+  <li>Cleaning up and refactoring projects created during Makers</li>
+  <li>Nailing down my understanding of NodeJS and React by creating a website for my upcoming wedding (<a href='https://github.com/cpcwood/alice-and-chris-2021' target="_blank">repo</a>)</li>
+  <li>Continuing to learn the fundamentals of Python via improving my machine learning project (<a href='https://github.com/cpcwood/neural-nets' target="_blank">repo</a>)</li>
+  <li>Pi based VPN and home webserver (<a href='https://www.cpcwood.com/say-hello' target="_blank">Say Hello</a>)</li>
+</ul>
 </p>
 
 ## Skills
@@ -34,6 +36,21 @@ Having solved problems throughout my life, from modelling dynamic systems in my 
 <p align='justify'> 
 I throughly enjoy solving Codewars katas and try to keep up completing one a day. I find seeing seeing other programmers solutions both fansinating and infuriating, but its probably one of the best ways to learn a new syntax quickly. Checkout my <a href='https://github.com/cpcwood/Codewars' target="_blank">solutions</a> and <a href='https://www.codewars.com/users/cpcwood' target="_blank">profile</a> if you like.
 </p>
+
+#### Analytical Thinker
+
+<p align='justify'> 
+Theres no point solving problems if you solve the wrong problems. I'm a big fan of thinking first and working out the edge cases before devising the solution, since it allows for a much better picture of what the work entails and guides the design of the first tests.
+</p>
+
+<p align='justify'> 
+An example of this was when planning the the game model for the Rock Paper Scissors challenge, I realised the rules for the extended game could be modelled using an equation. Then to solve this I created a module which allows for any size of RPS game so long as it follows the rules. Take a look at the module <a href='https://github.com/cpcwood/rps-challenge' target="_blank">here</a> in <code>lib/rps_extended.rb</code> 
+</p>
+
+<p align='justify'> 
+Another example would be during the bowling scorecard challenge, which turned out to be deceptivly complex to model since the rules of bowling allow for strikes and spares to take into account the scores rolled in subsquent frames. After about 4 hours of writing out different possible solutions, to reduce the excessive amount of logic I modelled each frame as its own object containing the logic for it to 'listen' for the right number of rolls and return a score when complete. Take a look at the script <a href='https://github.com/cpcwood/bowling-challenge' target="_blank">here</a> in <code>public/scripts/frameModel.js</code> 
+</p>
+
 
 #### Team Player
 
@@ -62,12 +79,6 @@ University
 Bathroom
 
 Logcabin
-
-#### Analytical Thinker
-
-Theres no point solving problems if you solve the wrong problems, Im a big fan of thinking first and working out the edge cases before implementing the solution
-
-Uni
 
 #### Thrives under pressure
 
