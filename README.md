@@ -43,53 +43,40 @@ I throughly enjoy solving Codewars katas and try to keep up completing one a day
 Theres no point solving problems if you solve the wrong problems. I'm a big fan of thinking first and working out the edge cases before devising the solution, since it allows for a much better picture of what the work entails and guides the design of the first tests.
 </p>
 
-<p align='justify'> 
-An example of this was when planning the the game model for the Rock Paper Scissors challenge, I realised the rules for the extended game could be modelled using an equation. Then to solve this I created a module which allows for any size of RPS game so long as it follows the rules. Take a look at the module <a href='https://github.com/cpcwood/rps-challenge' target="_blank">here</a> in <code>lib/rps_extended.rb</code> 
+<p align='justify'>
+Analytical thinking has been engrained into me throughout my education, however more recently Makers taught me how to apply this skill to programming. An example of this was when planning the the game model for the Rock Paper Scissors challenge, I realised the rules for the extended game could be modelled using an equation. Then to solve this I created a module which allows for any size of RPS game so long as it follows the rules. Take a look at the module <code>lib/rps_extended.rb</code> <a href='https://github.com/cpcwood/rps-challenge' target="_blank">here</a>
 </p>
 
 <p align='justify'> 
-Another example would be during the bowling scorecard challenge, which turned out to be deceptivly complex to model since the rules of bowling allow for strikes and spares to take into account the scores rolled in subsquent frames. After about 4 hours of writing out different possible solutions, to reduce the excessive amount of logic I modelled each frame as its own object containing the logic for it to 'listen' for the right number of rolls and return a score when complete. Take a look at the script <a href='https://github.com/cpcwood/bowling-challenge' target="_blank">here</a> in <code>public/scripts/frameModel.js</code> 
+Another point in the course where I found my analytical approach useful was in the bowling scorecard challenge, which turned out to be deceptivly complex to model, since the rules of bowling allow for strikes and spares to take into account the scores rolled in subsquent frames. After about 4 hours of writing out different possible solutions, to reduce the excessive amount of logic I modelled each frame as its own object containing the logic for it to 'listen' for the right number of rolls and return a score when complete. Take a look at the script <code>public/scripts/frameModel.js</code> <a href='https://github.com/cpcwood/bowling-challenge' target="_blank">here</a>
 </p>
 
 
 #### Team Player
 
-Agile ftw, previous work places had real communication problems. I find being in a fast paced team motivates me to work hard and love to lead when given the opppertunity. 
+<p align='justify'> 
+Cycling Land's End to John O'Groats, undertaking £2million of remedial works in an occupied building, and developing code effectivily, all have one major component in common, team work. I have always found that being in a team, has been critical to maximising productiviy, getting a positive outcome, and general happiness in a project. 
+</p>
 
-GRAHAM
-
-Head boy
-
-John Lewis
-
-Lejog
-
-Makers
-
-building up a team trello, keeping up with agile processes, all made the project run smoother and kept team moral high.
+<p align='justify'> 
+In the workplace, setting goals, having peer accountability, and Agile processes have driven my team and I to produce some great work which I didn't think was possible in the timeframes we are given at Makers. For example, in our final project at Makers <a href='https://github.com/cpcwood/technodactyl-studios-dinorun' target="_blank">Dinorun</a>, with no team-member having prior experience in game development or music analysis, we managed to develop a music based procedurally generated game 2D, which scales to browser size. Give it a play <a href='https://technodactyl-studios-dinorun.herokuapp.com/' target="_blank">here</a> and try to beat our topscores.  
+</p>
 
 #### Self-driven
 
-I am self driven by both goals and curisosity, if there is something to achive or complete it makes working better
+<p align='justify'> 
+I am self driven by both goals and curisosity, finding that if there is something to achive or complete it makes working hard much easier. While at Makers a friend explained the wonders of machine learning to me, which spiked my curiosity and I ended up setting the goal of creating a multilayered perceptron in from scratch in python. After a week or so of researching in my spare time I had achieved my goal and the neural network could correctly classify 2D datasets. You can take a look at the developing project <a href='https://github.com/cpcwood/neural-nets' target="_blank">here</a>.
+</p>
 
-Machine learning project
-
-University
-
-Bathroom
-
-Logcabin
-
-#### Thrives under pressure
-
-More pressure = more work 
-
+<p align='justify'> 
+In my spare time, I enjoy learning about technology and other skills. Checkout my <a href='#interests'>Interests</a> at the bottom of the page to see some examples.
+</p>
 
 ## Projects
 
 | Project | Overview | Tech |
 |---|---|---|
-| Dinorun | Final project at Makers creating a side scrolling game with procedurally generated levels based on uploaded sound files | JavaScript, Ruby on Rails, PSQL |
+| Dinorun | Final project at Makers creating a side scrolling game with procedurally generated levels based on uploaded sound files | JavaScript, Ruby on Rails, PSQL, AWS S3 |
 | Acebook | A Starwars themed Facebook clone with chat functionality | JavaScript, Ruby on Rails, PSQL |
 | Makersbnb | Airbnb clone | JavaScript, Ruby Sinatra, PSQL |
 | Bowling Challenge | Makers weekend challenge to create pure JavaScript front end bowling scorecard | JavaScript |
@@ -99,20 +86,12 @@ More pressure = more work
 
 #### Makers Academy (December 2019 - March 2020)
 
-*Progressivly add what has been learnt*
-- OOP, TDD
-- Ruby
-- RSpec
-
-Technical Skills
-
-Whilst at Makers, I gained the necessary skill-set for full stack web development. I am familiar with Ruby, JavaScript, HTML and CSS, and have worked with frameworks such as Rails, Sinatra, NodeJS.
-
-Loved POODR book
-
-I follow Test-Driven Development, with the occasional spike, and am familiar with RSpec, Capybara, and Jasmine.
-
-I make use of test databases and mocked objects to ensure robust unit testing.
+12 week intensive coding bootcamp in which covered many industry best practices:
+- Practices: OOP, TDD, Agile, MVC
+- Languagues: Ruby, JavaScript, HTML, CSS
+- Test suites: RSpec Unit & Capybara, Jasmine
+- Frameworks: Ruby on Rails, Sinatra
+- Others: Heroku, TravisCI, AWS S3
 
 #### The University of Nottingham (September 2014 - July 2018)
 
@@ -167,18 +146,24 @@ A Levels:
 - Cycled Land’s End to John O'Groats for charity on two occasions
 - Head Boy and Student Ambassador - Kirkstone House School 2011
 
-
-
 ## Interests
 
 **Cycling**
-- I am a keen cyclist, having hand built various high specification bikes. I enjoy taking part in various sportives and I have planned and cycled several multiday journeys, including Land's End to John O'Groats unsupported, leading a team of 4 and raising over £10,000 for Marie Curie Cancer Care.
+<p align='justify'> 
+I am a keen cyclist, having hand built various high specification bikes. I enjoy taking part in various sportives and I have planned and cycled several multiday journeys, including Land's End to John O'Groats unsupported, leading a team of 4 and raising over £10,000 for Marie Curie Cancer Care.
+</p>
 
 **Technology**
-- I have a passion for keeping up with modern design and technology, having custom made numerous computers for friends and family.
+<p align='justify'> 
+I have a passion for keeping up with modern design and technology, having custom made numerous computers for friends and family.
+</p>
 
 **DIY/Home Improvement**
-- I enjoy planning and undertaking home improvement DIY projects, such as: the building of a garden log cabin, conversion of a loft into a usable room, and the full strip down and installation of a luxury bathroom.
+<p align='justify'> 
+I enjoy planning and undertaking home improvement DIY projects, such as: the building of a garden log cabin, conversion of a loft into a usable room, and the full strip down and installation of a luxury bathroom.
+</p>
 
 **Other interests**
-- I am an enthusiastic skier, having passed the CSIA ski instructor exam. I also enjoy playing the piano and golf recreationally
+<p align='justify'> 
+I am an enthusiastic skier, having passed the CSIA ski instructor exam. I also enjoy playing the piano and golf recreationally.
+</p>
