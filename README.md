@@ -1,6 +1,6 @@
 <h1 align="center"> Christopher Wood </h1>
 
-<h4> <a href='#projects'>Projects</a> | <p align="center"> <a href='#skills'>Skills</a> | <a href='#education'>Education</a> | <a href='#experience'>Experience</a> | <a href='#achivements
+<h4> <p align="center"> <a href='#projects'>Projects</a> | <a href='#skills'>Skills</a> | <a href='#education'>Education</a> | <a href='#experience'>Experience</a> | <a href='#achivements
 '>Achivements</a> | <a href='#interests'>Interests</a> | <a href='https://www.linkedin.com/in/chriswood1995/' target="_blank">LinkedIn</a> | <a href='https://www.codewars.com/users/cpcwood' target="_blank">Codewars <img src='https://img.shields.io/badge/dynamic/json?color=blue&label=Honor&query=%24.honor&url=https%3A%2F%2Fwww.codewars.com%2Fapi%2Fv1%2Fusers%2Fcpcwood'></img></a></p> </h4>
 
 <p align='justify'>
