@@ -1,6 +1,7 @@
 <h1 align="center"> Christopher Wood </h1>
 
-<p align="center"> <a href='#skills'>Skills</a> | <a href='#projects'>Projects</a> | <a href='#education'>Education</a> | <a href='#experience'>Experience</a> | <a href='#interests'>Interests</a> | <a href='https://www.linkedin.com/in/chriswood1995/' target="_blank">LinkedIn</a> | <a href='https://www.codewars.com/users/cpcwood' target="_blank">Codewars <img src='https://img.shields.io/badge/dynamic/json?color=blue&label=Honor&query=%24.honor&url=https%3A%2F%2Fwww.codewars.com%2Fapi%2Fv1%2Fusers%2Fcpcwood'></a></p>
+<p align="center"> <a href='#skills'>Skills</a> | <a href='#projects'>Projects</a> | <a href='#education'>Education</a> | <a href='#experience'>Experience</a> | <a href='#interests'>Interests</a> | <a href='#achivements
+'>Achivements</a> | <a href='https://www.linkedin.com/in/chriswood1995/' target="_blank">LinkedIn</a> | <a href='https://www.codewars.com/users/cpcwood' target="_blank">Codewars <img src='https://img.shields.io/badge/dynamic/json?color=blue&label=Honor&query=%24.honor&url=https%3A%2F%2Fwww.codewars.com%2Fapi%2Fv1%2Fusers%2Fcpcwood'></a></p>
 
 <p style='text-align: justify;'> I am a motivated and fast learning graduate, passionate about all things technology. I throughly enjoyed studying Mechanical Engineering at university, but I found that the programming I undertook in modules/projects was what really intrested and inspired me. So I've decided to make a switch and turn my hobby into my job and pursue a career in software development. 
 </p>
@@ -21,15 +22,17 @@ While job seeking I will be working on the following:
 
 #### Problem Solver
 
-I love to solve problems, both for fun and in work. The more complex, the better. If I dont have to start drawing things out to keep track the problem, it wasn't hard enough.
+<p style='text-align: justify;'> 
+I love to solve problems, both for fun and in work. The more complex, the better. I like to think, if I havn't had to start drawing things out to keep track the problem, it wasn't hard enough.
+</p>
 
-Having solved problems before, what makers taught me is the process in which to follow when stuck or something goes wrong
+<p style='text-align: justify;'> 
+Having solved problems throughout my life, from modelling dynamic systems in my degree to managing tricky remdial works in a occupied building, what being at Makers has taught me is the processes in which to follow when first planning a problem and for when something goes wrong. 
+</p>
 
-codewars - check it out
-
-Degree final project
-
-GRAHAM SOAS
+<p style='text-align: justify;'> 
+I throughly enjoy solving Codewars katas and try to keep up completing one a day. I find seeing seeing other programmers solutions both fansinating and infuriating, but its probably one of the best ways to learn a new syntax quickly. Checkout my <a href='https://github.com/cpcwood/Codewars' target="_blank">solutions</a> and <a href='https://www.codewars.com/users/cpcwood' target="_blank">profile</a> if you like.
+</p>
 
 #### Team Player
 
