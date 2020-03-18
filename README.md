@@ -1,20 +1,23 @@
 <h1 align="center"> Christopher Wood </h1>
 
-<h3> <p align="center"> <a href='#skills'>Skills</a> | <a href='#projects'>Projects</a> | <a href='#education'>Education</a> | <a href='#experience'>Experience</a> | <a href='#interests'>Interests</a> | <a href='#achivements
-'>Achivements</a> | <a href='https://www.linkedin.com/in/chriswood1995/' target="_blank">LinkedIn</a> | <a href='https://www.codewars.com/users/cpcwood' target="_blank">Codewars <img src='https://img.shields.io/badge/dynamic/json?color=blue&label=Honor&query=%24.honor&url=https%3A%2F%2Fwww.codewars.com%2Fapi%2Fv1%2Fusers%2Fcpcwood'></a></p> </h3>
+<h4> <p align="center"> <a href='#skills'>Skills</a> | <a href='#projects'>Projects</a> | <a href='#education'>Education</a> | <a href='#experience'>Experience</a> | <a href='#interests'>Interests</a> | <a href='#achivements
+'>Achivements</a> | <a href='https://www.linkedin.com/in/chriswood1995/' target="_blank">LinkedIn</a> | <a href='https://www.codewars.com/users/cpcwood' target="_blank">Codewars <img src='https://img.shields.io/badge/dynamic/json?color=blue&label=Honor&query=%24.honor&url=https%3A%2F%2Fwww.codewars.com%2Fapi%2Fv1%2Fusers%2Fcpcwood'></a></p> </h4>
 
-<div align='justify'>
+<p align='justify'>
 I am a motivated and fast learning graduate, passionate about all things technology. I throughly enjoyed studying Mechanical Engineering at university, but I found that the programming I undertook in modules/projects was what really intrested and inspired me. So I've decided to make a switch and turn my hobby into my job and pursue a career in software development. 
+</p>
 
+<p align='justify'>
 I am hardworking and keen to learn anything, looking for a fast paced working environment on the forefront on technology.
+</p>
 
+<p align='justify'>
 While job seeking I will be working on the following:
 * Cleaning up and refactoring projects created during Makers
 * Nailing down my understanding of NodeJS and React by creating a website for my upcoming wedding ([repo](https://github.com/cpcwood/alice-and-chris-2021))
 * Continuing to learn the fundamentals of Python via improving my machine learning project ([repo](https://github.com/cpcwood/neural-nets))
 * Pi based VPN and home webserver (<a href='https://www.cpcwood.com/say-hello' target="_blank">Say Hello</a>)
-
-</div>
+</p>
 
 ## Skills
 
