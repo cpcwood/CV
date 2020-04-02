@@ -26,9 +26,9 @@ While job seeking I will be working on the following:
 
 | Project | Overview | Tech |
 |---|---|---|
-| [Dinorun](https://github.com/cpcwood/technodactyl-studios-dinorun) | Final project at Makers creating a side scrolling 2D game with procedurally generated levels based on uploaded sound files | JavaScript, Ruby on Rails, PSQL, AWS S3 |
-| [Acebook](https://github.com/cpcwood/acebook-dosdosdesperadosdynamicos) | A Starwars themed Facebook clone with realtime chat functionality | JavaScript, Ruby on Rails, PSQL |
-| [Makersbnb](https://github.com/cpcwood/Makersbnb--Lucky-Apocalypse) | Airbnb clone with booking system | JavaScript, Ruby Sinatra, PSQL |
+| [Dinorun](https://github.com/cpcwood/dinorun-cpcwood) | Final project at Makers creating a side scrolling 2D game with procedurally generated levels based on uploaded sound files | JavaScript, Ruby on Rails, PSQL, AWS S3 |
+| [Woookiebook](https://github.com/cpcwood/wookiebook-cpcwood) | A Starwars themed Facebook clone with realtime chat functionality | JavaScript, Ruby on Rails, PSQL |
+| [Makersbnb](https://github.com/cpcwood/makersbnb-cpcwood) | Airbnb clone with booking system | JavaScript, Ruby Sinatra, PSQL |
 | [Bowling Challenge](https://github.com/cpcwood/bowling-challenge) | Makers weekend challenge to create pure JavaScript frontend bowling scorecard | JavaScript |
 | [Rock Paper Scissors](https://github.com/cpcwood/rps-challenge) | Sinatra based play Rock Paper Scissors game | Ruby Sinatra |
 
