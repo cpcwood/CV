@@ -17,8 +17,7 @@ While job seeking I will be working on the following:
   <li>Cleaning up and refactoring projects created during Makers Academy</li>
   <li>Nailing down my understanding of NodeJS and React by creating a website for my upcoming wedding (<a href='https://github.com/cpcwood/alice-and-chris-2021' target="_blank">repo</a>)</li>
   <li>Continuing to learn the fundamentals of Python via improving my machine learning project (<a href='https://github.com/cpcwood/neural-nets' target="_blank">repo</a>)</li>
-  <li>Pi based VPN and home webserver <a href='https://www.cpcwood.com/say-hello' target="_blank">Say Hello</a> - (<a href='https://github.com/cpcwood/home-server' target="_blank">repo</a>)</li>
-  <li>Learning and customising vim</li>
+  <li>RaspberryPi based VPN and Nginx webserver <a href='https://www.cpcwood.com/say-hello' target="_blank">Say Hello</a> - (<a href='https://github.com/cpcwood/home-server' target="_blank">repo</a>)</li>
 </ul>
 </p>
 
