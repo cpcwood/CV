@@ -10,9 +10,9 @@ Hi, I’m Chris Wood, a mechanical engineer turned software engineer. I love lea
 <p align='justify'>
 Things I am currently working:
 <ul>
-  <li> <a href='https://bujj.it' target="_blank">bujj.it</a> budgeting app - colab with <a href='https://github.com/squareben1' target="_blank">Ben Gittins</a> </li>
+   <li>Ruby on Rails portfolio and sandbox - (<a href='https://github.com/cpcwood/home-server' target="_blank">repo</a>)</li>
+  <li> <a href='https://bujj.it' target="_blank">bujj.it</a> budgeting app - collaboration with <a href='https://github.com/squareben1' target="_blank">Ben Gittins</a> </li>
   <li>Improving my machine learning project (<a href='https://github.com/cpcwood/neural-nets' target="_blank">repo</a>)</li>
-  <li>Ruby on Rails portfolio and sandbox - (<a href='https://github.com/cpcwood/home-server' target="_blank">repo</a>)</li>
   <li>RaspberryPi based VPN and Email MTA (mail.cpcwood.com)</li>
   <li>Node and React site for my upcoming wedding (<a href='https://github.com/cpcwood/alice-and-chris-2021' target="_blank">repo</a>)</li>
   <li>Cleaning up and refactoring projects created during Makers Academy</li>
