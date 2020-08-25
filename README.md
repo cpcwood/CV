@@ -60,8 +60,6 @@ A Levels:
 - UK Driver’s License – Full, clean
 - HSE First Aid at Work – Expires 2022
 - Fire Warden - Expires 2022
-- CITB Site Safety Plus (SMSTS) – Expires 2024
-- Face Fit (Train the Tester) – Qualified 2019
 
 ## Experience
 
