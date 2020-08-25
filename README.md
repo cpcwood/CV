@@ -10,7 +10,7 @@ Hi, I’m Chris Wood. I’m a Mechanical Engineer turned software engineer and I
 <p align='justify'>
 Things I am currently working:
 <ul>
-  <li>[bujj.it](https://bujj.it) budgeting app - colab with [Ben Gittins](https://github.com/squareben1)</li>
+  <li> [bujj.it](https://bujj.it) budgeting app - colab with [Ben Gittins](https://github.com/squareben1) </li>
   <li>Improving my machine learning project (<a href='https://github.com/cpcwood/neural-nets' target="_blank">repo</a>)</li>
   <li>Ruby on Rails portfolio and sandbox - (<a href='https://github.com/cpcwood/home-server' target="_blank">repo</a>)</li>
   <li>RaspberryPi based VPN and Email MTA (mail.cpcwood.com)</li>
