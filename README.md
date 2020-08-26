@@ -31,9 +31,6 @@ Things I am currently working:
 | [Bowling Challenge](https://github.com/cpcwood/bowling-challenge) | Makers weekend challenge to create pure JavaScript frontend bowling scorecard | JavaScript |
 | [Rock Paper Scissors](https://github.com/cpcwood/rps-challenge) | Sinatra based play Rock Paper Scissors game | Ruby Sinatra |
 
-## Skills
-
-
 ## Experience
 
 **Gigfunding** (June 2020 - present)
