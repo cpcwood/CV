@@ -33,6 +33,67 @@ Things I am currently working:
 
 ## Skills
 
+
+## Experience
+
+**Gigfunding** (June 2020 - present)
+*Software Engineer*
+Volunteering my spare time to developing and managing an open-source production Rails marketplace. Collaborating remotely with a diverse international team.
+
+Some of the highlights of my work include:
+- Debugging project blocking stripe payment system issue
+- Adjustments and optimisation of Sphinx search engine
+- Converting client wants into user friendly features, such as the dynamic typed header
+- Various site styling such as admin defined listing colour associations
+- Fixing a range of different bugs throughout the codebase
+
+Tech stack:
+- Application: Ruby on Rails 5.2 w/ delayed_job, MySQL, Sphinx Search
+- Hosting: Digital Ocean Hosting, AWS S3
+
+**When Unicorns Fly** (July 2020 - August 2020)
+*Freelance Software Engineer*
+Paid freelance work to design, develop, and host the site for the When Unicorns Fly podcast. The site's public side displays information on podcasts allowing for filtering by podcast topic, direct streaming, and linking to popular podcast streaming services. The private side allows for admins to create and update podcasts a topics, including updating descriptions, images, and audio files. Check out the site [here](https://www.whenunicornsfly.com). 
+
+Some the main challenges I encountered were:
+- 
+
+Tech stack:
+- Client: React
+- Server: ExpressJS, Multer, Jest, 
+- Hosting: AWS EC2, AWS S3, Zoho mail
+
+**GRAHAM Construction** (November 2018 - June 2019)
+*Trainee Site Manager*
+- Managed the planning, site team, HSE, and administration of a £2m remedial works project of an occupied building, performed over a series of weekends
+
+**GRAHAM Construction** (June 2017 - September 2017)
+*Summer Intern*
+- Provided customer support to clients while working in the Aftercare Department to help solve defects arising since handover on various construction projects in Central London, including a £22m University refurbishment and £21m private residential project
+
+**GRAHAM Construction** (June 2016 - July 2016)
+*Summer Intern*
+- Provided support for the Mechanical & Electrical Team in office and onsite to facilitate the successful commissioning of several large construction projects
+
+**John Lewis Partnership** (September 2011 - September 2014)
+*Sales Assistant*
+- Worked weekends and late nights in a small specialised team, responsible for selling and repairing watches on the shop floor
+
+**DSM Group Computer Support** (April 2010)
+*Unpaid Assistant*
+- Worked as an assistant with the callout, maintenance, and administration teams
+- Aided engineers in building and setting up terminal servers for clients
+- Gained insight into the development of disaster recovery services
+
+
+## Achivements
+
+- British Petroleum STEM Scholarship 2015-2018
+- Duke of Edinburgh Award – Bronze, Silver, & Gold
+- Canadian Ski Instructors' Alliance Level 1 Certification
+- Cycled Land’s End to John O'Groats for charity on two occasions
+- Head Boy and Student Ambassador - Kirkstone House School 2011
+
 ## Education
 
 #### Makers Academy (December 2019 - March 2020)
@@ -63,37 +124,6 @@ A Levels:
 - HSE First Aid at Work – Expires 2022
 - Fire Warden - Expires 2022
 
-## Experience
-
-**GRAHAM Construction** (November 2018 - June 2019)
-*Trainee Site Manager*
-- Managed the planning, site team, HSE, and administration of a £2m remedial works project of an occupied building, performed over a series of weekends
-
-**GRAHAM Construction** (June 2017 - September 2017)
-*Summer Intern*
-- Provided customer support to clients while working in the Aftercare Department to help solve defects arising since handover on various construction projects in Central London, including a £22m University refurbishment and £21m private residential project
-
-**GRAHAM Construction** (June 2016 - July 2016)
-*Summer Intern*
-- Provided support for the Mechanical & Electrical Team in office and onsite to facilitate the successful commissioning of several large construction projects
-
-**John Lewis Partnership** (September 2011 - September 2014)
-*Sales Assistant*
-- Worked weekends and late nights in a small specialised team, responsible for selling and repairing watches on the shop floor
-
-**DSM Group Computer Support** (April 2010)
-*Unpaid Assistant*
-- Worked as an assistant with the callout, maintenance, and administration teams
-- Aided engineers in building and setting up terminal servers for clients
-- Gained insight into the development of disaster recovery services
-
-## Achivements
-
-- British Petroleum STEM Scholarship 2015-2018
-- Duke of Edinburgh Award – Bronze, Silver, & Gold
-- Canadian Ski Instructors' Alliance Level 1 Certification
-- Cycled Land’s End to John O'Groats for charity on two occasions
-- Head Boy and Student Ambassador - Kirkstone House School 2011
 
 ## Interests
 
