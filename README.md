@@ -6,7 +6,7 @@
 <h4> <p align="center"><a href='https://www.npmjs.com/~cpcwood' target="_blank"><img src='https://img.shields.io/badge/npm-cpcwood-blue'/></a> <a href='https://www.codewars.com/users/cpcwood' target="_blank"><img src='https://img.shields.io/badge/dynamic/json?color=blue&label=Honor&query=%24.honor&url=https%3A%2F%2Fwww.codewars.com%2Fapi%2Fv1%2Fusers%2Fcpcwood'></img></a></p> </h4>
 
 <p align='justify'>
-Hi, I’m Chris Wood, a mechanical engineer turned software engineer. I love learning, logic, and all things technology.  I enjoy taking client and project requirements and developing stable platforms which both the client and I are proud to show off. I’m very motivated and keen, and I can’t wait to join your team and help develop your projects, expanding my knowledge, and bringing my all.
+Hi, I’m Chris Wood, a mechanical engineer turned software engineer. I love learning, logic, and all things technology.  I enjoy taking client and project requirements and developing stable platforms which both the client and I are proud to show off. I’m very motivated and keen, and I can’t wait to join your team, expand my knowledge, and bring my all.
 </p>
 
 <p align='justify'>
@@ -37,8 +37,9 @@ Things I am currently working:
 ## Experience
 
 **Gigfunding** (June 2020 - present)
-*Software Engineer*
-Volunteering my spare time to developing and managing an open-source production Rails marketplace. Collaborating remotely with a diverse international team.
+*Volunteer Software Engineer*
+
+Volunteering my spare time to develop and manage an open-source production Rails marketplace for an upcoming charity. Collaborating remotely with a diverse international team.
 
 Some of the highlights of my work include:
 - Debugging project blocking stripe payment system issue
@@ -53,14 +54,18 @@ Tech stack:
 
 **When Unicorns Fly** (July 2020 - August 2020)
 *Freelance Software Engineer*
-Paid freelance work to design, develop, and host the site for the When Unicorns Fly podcast. The site's public side displays information on podcasts allowing for filtering by podcast topic, direct streaming, and linking to popular podcast streaming services. The private side allows for admins to create and update podcasts a topics, including updating descriptions, images, and audio files. Check out the site [here](https://www.whenunicornsfly.com). 
 
-Some the main challenges I encountered were:
-- 
+Paid freelance work to design, develop, and host the site for the When Unicorns Fly podcast. The site's public side displays information on podcasts allowing for filtering by podcast topic, direct streaming, and linking to popular podcast streaming services. The private side allows for admins to create and update podcasts a topics, including updating descriptions, images, and audio files. Check out the site [here](https://www.whenunicornsfly.com).
+
+Some of the challenges I encountered were:
+- Handling react state for user sessions and AJAX resource requests
+- Mitigating against common security threats such as CSRF
+- Dynamic rendering the SPA for SEO and social media bots
+- Developing a custom multer storage engine to transform images and analyse audio before uploading to AWS S3
 
 Tech stack:
-- Client: React
-- Server: ExpressJS, Multer, Jest, 
+- Client: React, Axios, Webpacker
+- Server: ExpressJS (NodeJS), Multer, Sequelize (PSQL), Jest
 - Hosting: AWS EC2, AWS S3, Zoho mail
 
 **GRAHAM Construction** (November 2018 - June 2019)
