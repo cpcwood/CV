@@ -48,7 +48,7 @@ Tech stack:
 - Application: Ruby on Rails 5.2 w/ delayed_job, MySQL, Sphinx Search
 - Hosting: Digital Ocean Hosting, AWS S3
 
-**When Unicorns Fly** (July 2020 - August 2020)
+**When Unicorns Fly** (July 2020 - September 2020)
 *Freelance Software Engineer*
 
 Paid freelance work to design, develop, and host the site for the When Unicorns Fly podcast. The site's public side displays information on podcasts allowing for filtering by podcast topic, direct streaming, and linking to popular podcast streaming services. The private side allows for admins to create and update podcasts a topics, including updating descriptions, images, and audio files. Check out the site [here](https://www.whenunicornsfly.com).
