@@ -6,7 +6,7 @@
 <h4> <p align="center"><a href='https://www.npmjs.com/~cpcwood' target="_blank"><img src='https://img.shields.io/badge/npm-cpcwood-blue'/></a> <a href='https://www.codewars.com/users/cpcwood' target="_blank"><img src='https://img.shields.io/badge/dynamic/json?color=blue&label=Honor&query=%24.honor&url=https%3A%2F%2Fwww.codewars.com%2Fapi%2Fv1%2Fusers%2Fcpcwood'></img></a></p> </h4>
 
 <p align='justify'>
-Hi, I’m Chris Wood, a mechanical engineer turned software engineer. I love learning, logic, and all things technology.  I enjoy taking client and project requirements and developing stable platforms which both the client and I are proud to show off. I’m very motivated and keen, and I can’t wait to join your team, expand my knowledge, and bring my all.
+Hi, I’m Chris Wood, a mechanical engineer turned software engineer. I love learning, logic, and all things technology.
 </p>
 
 <p align='justify'>
