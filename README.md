@@ -39,8 +39,7 @@
 
 Freelance software development, specializing in Ruby and JavaScript stacks.
 
-#### Full-Stack Developer | <i>Gigfunding</i>
-
+### Full-Stack Developer | <i>Gigfunding</i>
 ##### Volunteer (June 2020 - present)
 
 <p>
@@ -68,8 +67,7 @@ Tech stack:
 - MySQL /w Sphinx Search
 
 
-#### Full-Stack Developer | <i>WhenUnicornsFly</i>
-
+### Full-Stack Developer | <i>WhenUnicornsFly</i>
 ##### Freelance (July 2020 - September 2020)
 
 <p>
@@ -95,67 +93,10 @@ Tech stack:
 
 ## Projects
 
-#### Home-Server
-
-<p>
-  <a href='https://github.com/cpcwood/home-server' target="_blank">
-    <img src='https://cpcwood-public-dev.s3.eu-west-2.amazonaws.com/github-logo.svg' alt='github link'>
-  </a>
-  <a href='https://cpcwood.com' target="_blank">
-    <img src='https://cpcwood-public-dev.s3.eu-west-2.amazonaws.com/external-link.svg' alt='external link'>
-  </a>
-</p>
-
-Website based portfolio, blog, and Ruby on Rails sandbox for learning new processes.
-
-Tech stack: Ruby on Rails v6.0, StimulusJS, PSQL, Sidekiq, Twilio, AWS S3, Docker, K8s
-
-
-#### Bujj.it
-
-<p>
-  <a href='https://github.com/bujj-it/bujj-it' target="_blank">
-    <img src='https://cpcwood-public-dev.s3.eu-west-2.amazonaws.com/github-logo.svg' alt='github link'>
-  </a>
-  <a href='https://bujj.it' target="_blank">
-    <img src='https://cpcwood-public-dev.s3.eu-west-2.amazonaws.com/external-link.svg' alt='external link'>
-  </a>
-</p>
-
-Mobile friendly, easy to use budgeting app, aimed at helping young people save money.
-
-Tech stack: React, Redux, Express.js, Serverless, AWS Lambda, DynamoDB, SASS
-
-
-#### Jest ERB Transformers
-
-<p>
-  <a href='https://github.com/cpcwood/jest-erb-transformer' target="_blank">
-    <img src='https://cpcwood-public-dev.s3.eu-west-2.amazonaws.com/github-logo.svg' alt='github link'>
-  </a>
-</p>
-
-Custom transformer for compiling Embedded Ruby template files (.erb) for use in the Jest JavaScript testing framework (npm package).
-
-#### Dinorun
-
-<p>
-  <a href='https://github.com/cpcwood/dinorun-cpcwood' target="_blank">
-    <img src='https://cpcwood-public-dev.s3.eu-west-2.amazonaws.com/github-logo.svg' alt='github link'>
-  </a>
-  <a href='https://dinorun.cpcwood.com' target="_blank">
-    <img src='https://cpcwood-public-dev.s3.eu-west-2.amazonaws.com/external-link.svg' alt='external link'>
-  </a>
-</p>
-
-Fully responsive, side-scrolling platform game with the level generated from the user's uploaded audio, built-in Vanilla JavaScript. 
-
-#### Neural Networks
-
-<p>
-  <a href='https://github.com/cpcwood/neural-nets' target="_blank">
-    <img src='https://cpcwood-public-dev.s3.eu-west-2.amazonaws.com/github-logo.svg' alt='github link'>
-  </a>
-</p>
-
-Learning to turn mathematical theory into code by using python to create neural networks from scratch.
+| Project | Description | Links |
+|-        |-            |-      |
+| Home-Server | Website based portfolio, blog, and Ruby on Rails sandbox for learning new processes. <br></br> Tech stack: Ruby on Rails v6.0, StimulusJS, PSQL, Sidekiq, Twilio, AWS S3, Docker, K8s | <p><a href='https://github.com/cpcwood/home-server' target="_blank"><img src='https://cpcwood-public-dev.s3.eu-west-2.amazonaws.com/github-logo.svg' alt='github link'></a><a href='https://cpcwood.com' target="_blank"><img src='https://cpcwood-public-dev.s3.eu-west-2.amazonaws.com/external-link.svg' alt='external link'></a></p>|
+| Bujj.it | Mobile friendly, easy to use budgeting app, aimed at helping young people save money. <br></br> Tech stack: React, Redux, Express.js, Serverless, AWS Lambda, DynamoDB, SASS | <p><a href='https://github.com/bujj-it/bujj-it' target="_blank"><img src='https://cpcwood-public-dev.s3.eu-west-2.amazonaws.com/github-logo.svg' alt='github link'></a><a href='https://bujj.it' target="_blank"><img src='https://cpcwood-public-dev.s3.eu-west-2.amazonaws.com/external-link.svg' alt='external link'></a></p> |
+| Jest ERB Transformers | Custom transformer for compiling Embedded Ruby template files (.erb) for use in the Jest JavaScript testing framework (npm package). | <p><a href='https://github.com/cpcwood/jest-erb-transformer' target="_blank"><img src='https://cpcwood-public-dev.s3.eu-west-2.amazonaws.com/github-logo.svg' alt='github link'></a></p> |
+| Dinorun | Fully responsive, side-scrolling platform game with the level generated from the user's uploaded audio, built-in Vanilla JavaScript. | <p><a href='https://github.com/cpcwood/dinorun-cpcwood' target="_blank"><img src='https://cpcwood-public-dev.s3.eu-west-2.amazonaws.com/github-logo.svg' alt='github link'></a><a href='https://dinorun.cpcwood.com' target="_blank"><img src='https://cpcwood-public-dev.s3.eu-west-2.amazonaws.com/external-link.svg' alt='external link'></a></p> |
+| Neural Networks | Learning to turn mathematical theory into code by using python to create neural networks from scratch. | <p><a href='https://github.com/cpcwood/neural-nets' target="_blank"><img src='https://cpcwood-public-dev.s3.eu-west-2.amazonaws.com/github-logo.svg' alt='github link'></a></p> |
