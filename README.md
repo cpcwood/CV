@@ -1,4 +1,4 @@
-<h1 align="center"> Christopher Wood </h1>
+<h1 align="center"> Chris Wood </h1>
 
 <h4> 
   <p align="center"> 
