@@ -22,7 +22,7 @@
 </p>
 
 <p align='justify'>
-  I have always had a strong passion for technology and picked up software development during my Mechanical Engineering degree. More recently, I undertook a bootcamp at <a href='https://makers.tech' target="_blank">Makers</a>, to learn web development and turn my passion into a career. 
+  I have always had a strong passion for technology and picked up software development during my Mechanical Engineering degree. More recently, I undertook a Bootcamp at <a href='https://makers.tech' target="_blank">Makers</a>, to learn web development and turn my passion into a career. 
 </p>
 
 <p>
@@ -35,7 +35,7 @@
 
 ## Experience
 
-#### Director | <i>CPCWOOD LTD</i>
+### Director | <i>CPCWOOD LTD</i>
 
 Freelance software development, specializing in Ruby and JavaScript stacks.
 
@@ -94,9 +94,9 @@ Tech stack:
 ## Projects
 
 | Project | Description | Links |
-|-        |-            |-      |
-| Home-Server | Website based portfolio, blog, and Ruby on Rails sandbox for learning new processes. <br></br> Tech stack: Ruby on Rails v6.0, StimulusJS, PSQL, Sidekiq, Twilio, AWS S3, Docker, K8s | <p><a href='https://github.com/cpcwood/home-server' target="_blank"><img src='https://cpcwood-public-dev.s3.eu-west-2.amazonaws.com/github-logo.svg' alt='github link'></a><a href='https://cpcwood.com' target="_blank"><img src='https://cpcwood-public-dev.s3.eu-west-2.amazonaws.com/external-link.svg' alt='external link'></a></p>|
-| Bujj.it | Mobile friendly, easy to use budgeting app, aimed at helping young people save money. <br></br> Tech stack: React, Redux, Express.js, Serverless, AWS Lambda, DynamoDB, SASS | <p><a href='https://github.com/bujj-it/bujj-it' target="_blank"><img src='https://cpcwood-public-dev.s3.eu-west-2.amazonaws.com/github-logo.svg' alt='github link'></a><a href='https://bujj.it' target="_blank"><img src='https://cpcwood-public-dev.s3.eu-west-2.amazonaws.com/external-link.svg' alt='external link'></a></p> |
+|---      |---          |:-:    |
+| Home-Server | <p>Website based portfolio, blog, and Ruby on Rails sandbox for learning new processes.</p><p> Tech stack: Ruby on Rails v6.0, StimulusJS, PSQL, Sidekiq, Twilio, AWS S3, Docker, K8s</p>| <a href='https://github.com/cpcwood/home-server' target="_blank"><img src='https://cpcwood-public-dev.s3.eu-west-2.amazonaws.com/github-logo.svg' alt='github link'></a><a href='https://cpcwood.com' target="_blank"><img src='https://cpcwood-public-dev.s3.eu-west-2.amazonaws.com/external-link.svg' alt='external link'></a>|
+| Bujj.it | <p>Mobile friendly, easy to use budgeting app, aimed at helping young people save money.</p><p>Tech stack: React, Redux, Express.js, Serverless, AWS Lambda, DynamoDB, SASS</p> | <p><a href='https://github.com/bujj-it/bujj-it' target="_blank"><img src='https://cpcwood-public-dev.s3.eu-west-2.amazonaws.com/github-logo.svg' alt='github link'></a><a href='https://bujj.it' target="_blank"><img src='https://cpcwood-public-dev.s3.eu-west-2.amazonaws.com/external-link.svg' alt='external link'></a></p> |
 | Jest ERB Transformers | Custom transformer for compiling Embedded Ruby template files (.erb) for use in the Jest JavaScript testing framework (npm package). | <p><a href='https://github.com/cpcwood/jest-erb-transformer' target="_blank"><img src='https://cpcwood-public-dev.s3.eu-west-2.amazonaws.com/github-logo.svg' alt='github link'></a></p> |
 | Dinorun | Fully responsive, side-scrolling platform game with the level generated from the user's uploaded audio, built-in Vanilla JavaScript. | <p><a href='https://github.com/cpcwood/dinorun-cpcwood' target="_blank"><img src='https://cpcwood-public-dev.s3.eu-west-2.amazonaws.com/github-logo.svg' alt='github link'></a><a href='https://dinorun.cpcwood.com' target="_blank"><img src='https://cpcwood-public-dev.s3.eu-west-2.amazonaws.com/external-link.svg' alt='external link'></a></p> |
 | Neural Networks | Learning to turn mathematical theory into code by using python to create neural networks from scratch. | <p><a href='https://github.com/cpcwood/neural-nets' target="_blank"><img src='https://cpcwood-public-dev.s3.eu-west-2.amazonaws.com/github-logo.svg' alt='github link'></a></p> |
