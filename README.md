@@ -2,7 +2,7 @@
 
 <h4> 
   <p align="center"> 
-    <a href='https://www.linkedin.com/in/chriswood1995/' target="_blank">cpcwood.com</a> | <a href='https://www.linkedin.com/in/chriswood1995/' target="_blank">LinkedIn</a>
+    <a href='https://cpcwood.com' target="_blank">cpcwood.com</a> | <a href='https://www.linkedin.com/in/chriswood1995' target="_blank">LinkedIn</a>
   </p>
 </h4>
 
